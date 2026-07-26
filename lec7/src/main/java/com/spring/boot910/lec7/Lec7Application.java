@@ -9,6 +9,6 @@ public class Lec7Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Lec7Application.class, args);
-        System.out.println("Lec7Application <UNK>");
+        System.out.println("zeyaaaaaaaad");
     }
 }
